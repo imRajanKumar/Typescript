@@ -5,7 +5,6 @@ class Customer
 
 constructor(a:string,b:string)
 
-
 {
 this.fname=a;
 this.lname=b;
